@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Trello</string>
+    <string name="let_s_get_started">Let\'s Get Started</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="tagline">We manage from start to finish.\nTraining to be the best.</string>
+    <string name="myName">Riya Dhiman</string>
+</resources>
